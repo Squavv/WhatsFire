@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="WhatsFire Logo" width="200"/>
+  <img src="public/logo.png" alt="WhatsFire Logo" width="180"/>
   <h1>WhatsFire</h1>
   <h3>A feature-rich WhatsApp clone built with Next.js and Firebase</h3>
 </div>

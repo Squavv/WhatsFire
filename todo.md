@@ -1,0 +1,13 @@
+- implement dark mode and light mode in settings
+- implement chat wallpaper in settings
+- implement groups
+- implement chat reply
+- fix chat input box
+- implement delete chat
+- implement profile info page
+- fix last seen
+- add typing indicator
+- implement contact list
+- implement call history
+- make calls work
+- make app responsive

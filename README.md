@@ -1,9 +1,10 @@
 <div align="center">
-  <br />
   <img src="public/logo.png" alt="WhatsFire Logo" width="200"/>
   <h1>WhatsFire</h1>
   <h3>A feature-rich WhatsApp clone built with Next.js and Firebase</h3>
 </div>
+
+<br>
 
 ## Features
 
@@ -19,6 +20,8 @@ WhatsFire is a powerful messaging application inspired by WhatsApp, offering a c
 - **Group Chats** - Create and manage group conversations
 - **Status Updates** - Share temporary updates with your contacts
 
+<br>
+
 ## Getting Started
 
 ### Prerequisites
@@ -26,6 +29,8 @@ WhatsFire is a powerful messaging application inspired by WhatsApp, offering a c
 - Node.js 18.x or later
 - npm or yarn
 - A Firebase project
+
+<br>
 
 ### Installation
 
@@ -71,23 +76,33 @@ WhatsFire is a powerful messaging application inspired by WhatsApp, offering a c
 
    Open [http://localhost:3000](http://localhost:3000) to see your app in action!
 
-## Key Components
+<br>
+
+## 🌟 Key Components
 
 ### Real-time Chat
 
 The application uses Firebase Firestore for real-time message synchronization, ensuring instant delivery and updates.
 
+<br>
+
 ### User Presence System
 
 WhatsFire implements a sophisticated online presence system that shows when users are active and tracks their last seen time.
+
+<br>
 
 ### End-to-End Encryption (Simulated)
 
 While this is a demo application, it includes simulated end-to-end encryption to demonstrate how real messaging apps protect user privacy.
 
+<br>
+
 ### WebRTC Video & Audio Calls
 
 Leveraging WebRTC technology and Firebase for signaling, WhatsFire enables high-quality peer-to-peer audio and video calls.
+
+<br>
 
 ## Project Structure
 
@@ -102,6 +117,8 @@ whatsfire/
 └── ...config files
 ```
 
+<br>
+
 ## Technologies Used
 
 - **Frontend**
@@ -111,6 +128,8 @@ whatsfire/
   - Tailwind CSS
   - shadcn/ui
 
+<br>
+
 - **Backend & Infrastructure**
   - Firebase Authentication
   - Firestore Database
@@ -118,9 +137,13 @@ whatsfire/
   - Firebase Storage
   - Firebase Cloud Messaging
 
+<br>
+
 - **Real-time Communication**
   - WebRTC
   - Firebase for signaling
+
+<br>
 
 ## License
 

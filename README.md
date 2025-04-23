@@ -78,7 +78,7 @@ WhatsFire is a powerful messaging application inspired by WhatsApp, offering a c
 
 <br>
 
-## 🌟 Key Components
+## Key Components
 
 ### Real-time Chat
 

